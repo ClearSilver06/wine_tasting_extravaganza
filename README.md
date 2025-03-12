@@ -66,7 +66,7 @@ Beginner Wine Recommendations: Filterable dashboard showcasing beginner-friendly
 Live Tableau Link: [https://public.tableau.com/app/profile/lakshmo.abbaraju/viz/WineInsight/WineInsight?publish=yes]
 
 ## Tools & Technologies
-## Programming & Analysis
+Programming & Analysis
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 Jupyter Lab / Jupyter Notebook
 Machine Learning & NLP
