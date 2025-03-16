@@ -63,7 +63,7 @@ Interactive Visualizations:
 Wine Ratings by Country & Variety: Heatmaps showing regional trends.
 Price vs. Rating Comparison: Dynamic charts allowing users to filter by wine type.
 Beginner Wine Recommendations: Filterable dashboard showcasing beginner-friendly options.
-Live Tableau Link to the dashboard and story : [https://public.tableau.com/app/profile/lakshmo.abbaraju/viz/WineInsight/WineInsight?publish=yes]
+Live Tableau Link to the dashboard and story : https://public.tableau.com/app/profile/lakshmo.abbaraju/viz/VineVault-Final_17410589113220/WineInsight?publish=yes
 https://public.tableau.com/app/profile/lakshmo.abbaraju/viz/WineInsight/WineInsightStory
 
 ## Tools & Technologies
